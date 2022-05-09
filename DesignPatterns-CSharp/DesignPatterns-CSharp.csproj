@@ -6,8 +6,4 @@
         <RootNamespace>DesignPatterns_CSharp</RootNamespace>
     </PropertyGroup>
 
-    <ItemGroup>
-      <Folder Include="Creational\AbstractFactory" />
-    </ItemGroup>
-
 </Project>

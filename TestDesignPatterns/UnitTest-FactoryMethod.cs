@@ -4,7 +4,7 @@ using DesignPatterns_CSharp.Creational;
 
 namespace TestDesignPatterns
 {
-    public class Tests
+    public class UnitTestFactoryMethod
     {
         [SetUp]
         public void Setup()
@@ -12,7 +12,7 @@ namespace TestDesignPatterns
         }
 
         [Test]
-        public void FactoryMethodTest()
+        public void FactoryMethodClient()
         {
             //Assert.Pass();
             Random r = new Random();
