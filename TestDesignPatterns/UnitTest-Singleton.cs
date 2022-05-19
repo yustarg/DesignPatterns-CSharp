@@ -6,7 +6,7 @@ namespace TestDesignPatterns
     public class UnitTestSingleton
     {
         [Test]
-        public void PrototypeClient()
+        public void SingletonClient()
         {
             Database foo = Database.getInstance();
             foo.Query("SELECT ...");
