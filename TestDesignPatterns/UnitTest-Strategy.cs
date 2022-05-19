@@ -1,4 +1,3 @@
-using DesignPatterns_CSharp.Behavioral.State;
 using DesignPatterns_CSharp.Behavioral.Strategy;
 using NUnit.Framework;
 
